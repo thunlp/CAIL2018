@@ -30,7 +30,14 @@
 
 ## 现有的系统环境
 
-* python3.6
+* python3.5.2
+* tensorflow 1.7
+* pytorch 0.3.1
+* gensim 3.4
+* sklearn 0.19.1
+* scipy 1.1
+* numpy 1.14.3
+* java 1.8.0_171
 
 等待补全中
 
