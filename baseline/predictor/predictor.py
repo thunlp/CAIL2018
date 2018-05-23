@@ -16,11 +16,11 @@ class Predictor(object):
 
 	def predict_law(self, vec):
 		y = self.law.predict(vec)
-		return [y[0]]
+		return [y[0] + 1]
 	
 	def predict_accu(self, vec):
 		y = self.accu.predict(vec)
-		return [y[0]]
+		return [y[0] + 1]
 	
 	def predict_time(self, vec):
 
