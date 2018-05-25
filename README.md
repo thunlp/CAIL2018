@@ -52,6 +52,7 @@ botocore            1.10.19
 bz2file             0.98                  
 certifi             2018.4.16             
 chardet             3.0.4                 
+cycler              0.10.0                
 Cython              0.28.2                
 docutils            0.14                  
 fasttext            0.8.3                 
@@ -64,8 +65,14 @@ html5lib            0.9999999
 idna                2.6                   
 jieba               0.39                  
 jmespath            0.9.3                 
+JPype1              0.6.3                 
 Keras               2.1.6                 
+kiwisolver          1.0.1                 
+lightgbm            2.1.1                 
+Mako                1.0.7                 
 Markdown            2.6.11                
+MarkupSafe          1.0                   
+matplotlib          2.2.2                 
 numpy               1.14.3                
 pandas              0.22.0                
 Pillow              5.1.0                 
@@ -73,7 +80,10 @@ pip                 10.0.1
 protobuf            3.5.2.post1           
 pycurl              7.43.0                
 pygobject           3.20.0                
+pygpu               0.7.6                 
+pyhanlp             0.1.41                
 pyltp               0.2.1                 
+pyparsing           2.2.0                 
 python-apt          1.1.0b1+ubuntu0.16.4.1
 python-dateutil     2.7.3                 
 pytz                2018.4                
@@ -81,7 +91,9 @@ PyYAML              3.12
 requests            2.18.4                
 s3transfer          0.1.13                
 scikit-learn        0.19.1                
+scikit-multilearn   0.0.5                 
 scipy               1.1.0                 
+seq2seq             0.1.5                 
 setuptools          39.0.1                
 six                 1.11.0                
 sklearn             0.0                   
@@ -89,26 +101,20 @@ smart-open          1.5.7
 tensorboard         1.7.0                 
 tensorflow-gpu      1.7.0                 
 termcolor           1.1.0                 
+tflearn             0.3.2                 
 Theano              1.0.1                 
 thulac              0.1.2                 
 torch               0.3.1                 
+torchtext           0.2.3                 
 torchvision         0.2.0                 
+tqdm                4.23.3                
 unattended-upgrades 0.1                   
 urllib3             1.22                  
 Werkzeug            0.14.1                
 wheel               0.31.0                
-xgboost             0.71                  
+xgboost             0.71
 ```
 
 等待补全中
 
 如果你有需要的环境，请联系比赛管理员进行安装。
-        
-
-
-
-
-
-
-
-
