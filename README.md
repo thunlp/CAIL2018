@@ -38,7 +38,7 @@ QQ群：237633234
 
 我们在 ``judger`` 文件夹中提供了一个 ``Judger`` 的类可以帮助你计算你三个任务的得分，你可以参考该代码实现你自己的Judger。该Judger所使用的读入格式仅用于我们的评测，如果你需要使用该代码，请根据你的需求自行进行修改。
 
-## 现有的系统环境
+## 现有python3.5系统环境
 
 ```
 Package             Version               
@@ -84,8 +84,7 @@ pygpu               0.7.6
 pyhanlp             0.1.41                
 pyltp               0.2.1                 
 pyparsing           2.2.0                 
-python-apt          1.1.0b1+ubuntu0.16.4.1
-python-dateutil     2.7.3                 
+python-apt          1.1.0b1+ubuntu0.16.4.1        
 pytz                2018.4                
 PyYAML              3.12                  
 requests            2.18.4                
