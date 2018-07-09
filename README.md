@@ -2,8 +2,9 @@
 
 该项目为 **CAIL2018** 的代码和模型提交说明。
 
-##### 重要提示
-由于一些原因，域名登录暂时无法使用，可以使用 http://180.76.238.177 登陆网站进行比赛。如带来不变，请谅解。
+## 数据集论文
+数据集论文 [CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction](https://arxiv.org/pdf/1807.02478.pdf) 已公布。
+
 
 ## 选手交流群
 
